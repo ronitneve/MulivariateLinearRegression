@@ -42,10 +42,7 @@ Here we minimize Theta by calculating the Error. On each epoch the Theata value 
 
 ## Result
 
-Error over Epochs.
+Error over Epochs & Accuracy of the Model.
 
-![alt text](Error.png)
+![Img](Error.png)
 
-Accuracy of the Model
-
-![alt text](Accuracy.png)
